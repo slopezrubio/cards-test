@@ -1,0 +1,14 @@
+{
+  "name": "sunweb-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "workaround.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "MeinSussEichhornchen",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.1"
+  }
+}
